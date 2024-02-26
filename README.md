@@ -11,3 +11,5 @@ i have added a sample-1.txt in files. it is a txt file containing numbers 1 to 1
 3. what would be the next improvements or enhancements you would make to this model?
 
 We would like to add english rules like using certain pronouns, verbs and adding them to the text whenever it feels that there should be one. for eg: adding 'The' infront of universal things and adding an infront of vowels etc. We can use Firebase or any other data saving tech so that the function can learn the pattern and use previously compiled programs to enhance the future ones.
+
+if you want to see a working prototype refer to this link https://github.com/jashanpreetjabbal/cap-comp215/blob/main/project1SLM.ipynb
