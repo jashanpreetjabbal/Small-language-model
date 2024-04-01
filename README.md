@@ -2,7 +2,7 @@
 some common questions:
 1. Is this an AI model? In what ways is it similar or dissimilar from AI models?
 
-No, this SLM model is very basic compartively to the AI models present in the industry. however, it is quite similair to many AI models out there as AI currently in the industry is just predicitve modelling and works on large set of data. This SLM also works on a data set(very small compartively to the ChatGPT) and predicts the next words based on the last 2 words.
+No, this SLM model is very basic compartively to the AI models present in the industry. however, it is quite similar to many AI models out there as AI currently in the industry is just predicitve modelling and works on large set of data. This SLM also works on a data set(very small compartively to the ChatGPT) and predicts the next words based on the last 2 words.
 
 2. Could this model be useful for any real-world applications?
 
